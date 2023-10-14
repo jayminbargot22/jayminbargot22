@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jaymin Bargot.
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Python and Java.
+- 💞️ I’m looking to collaborate on any project related to Cyber Security and Python.
+- 📫 To reach me just email me on jayminbargot@gmail.com .
